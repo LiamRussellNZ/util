@@ -20,8 +20,6 @@ def get_all_lists():
 get_all_lists()
 #get_all_items_from("cards", data) 
 
-#print(data)
-
 #for key in data:
 #    try:
 #        for card in data["actions"]:
